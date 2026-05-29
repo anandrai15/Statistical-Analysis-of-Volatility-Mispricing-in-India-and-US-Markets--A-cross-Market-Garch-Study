@@ -1,0 +1,2 @@
+# Statistical-Analysis-of-Volatility-Mispricing-in-India-and-US-Markets--A-cross-Market-Garch-Study
+A quant research project that tests whether **implied volatility** tends to be overpriced relative to **model-estimated volatility**.   The study compares **India (NIFTY + India VIX)** and **US (S&amp;P 500 + VIX)** using rolling GARCH forecasts, volatility spreads, and forward 5-day outcome testing.
